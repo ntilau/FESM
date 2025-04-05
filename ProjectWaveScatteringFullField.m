@@ -1,4 +1,4 @@
-clear all; % close all; % clc;
+clear; % close all; % clc;
 % profile on;
 Config();
 db = @(x)20*log10(x);

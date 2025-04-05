@@ -1,4 +1,4 @@
-clear all; clc;
+clear; clc;
 close all
 Config();
 Sys.pOrd = 4;
